@@ -1,0 +1,9 @@
+name: af
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.18
+  - scikit-learn=1.2.0
+  - torchdiffeq=0.2.3
+  - pandas=1.5.2
