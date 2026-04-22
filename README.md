@@ -13,7 +13,7 @@ conda env create -f af.yml
 
 * Survival Analysis
 
-You can run the code to train the model by typing on the train directory
+You can run the code to train the model by typing the following command on the train directory
 ```
 python3 train_model.py
 
