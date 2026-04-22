@@ -5,13 +5,16 @@ Code for the paper:
 
 ## Prerequisites
 
-Install `torchdiffeq` from https://github.com/rtqichen/torchdiffeq.
+You will need to install the prerequisites with the following command
+```
+conda env create -f af.yml
 
+```
 
 * Survival Analysis
 
-You can run the code by typing
+You can run the code to train the model by typing on the train directory
 ```
-python3 run_models.py
+python3 train_model.py
 
 ```
